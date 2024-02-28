@@ -1,0 +1,11 @@
+# Request user input for the first number
+num1 = float(input("Enter the first number: "))
+
+# Request user input for the second number
+num2 = float(input("Enter the second number: "))
+
+# Calculate the sum of the two numbers
+sum = num1 + num2
+
+# Print the sum to the console
+print("The sum of", num1, "and", num2, "is:", sum)
